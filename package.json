@@ -10,6 +10,9 @@
     "type": "git",
     "url": "https://github.com/CorentinTh/it-tools"
   },
+  "engines": {
+    "node": ">=20.0.0 <22.0.0" // 示例：要求 Node.js 在 18.x 到 20.x 之间
+  },
   "keywords": [
     "productivity",
     "converter",
